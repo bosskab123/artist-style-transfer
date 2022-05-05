@@ -1,0 +1,3 @@
+ไฟล์ใหญ่เกิน อัพลง git ไม่ได้ แต่มีโครงสร้างประมาณนี้ สามารถหารูปหมาแมวแล้วเอามาทำกับโปรเจคนี้ได้ หรือเป็ฯ binary classification อื่นๆ
+- \petimages - \cat - images of cat 3600 images
+            - \dog - images of dog 3600 images
